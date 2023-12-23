@@ -7,6 +7,6 @@ Fechas:
 
 ## Contenido
 
-- [Ejercicio 3](practica07/src/practica07/Saludar.java): Saludar 
+- [Ejercicio 1](practica07/src/practica07/Saludar.java): Saludar 
 - [Ejercicio 2](practica07/src/practica07/Registrar.java): Listado de productos
-- [Ejercicio 4](practica08/src/practicaSwing/frmEncuesta.java): Formulario Encuesta
+- [Ejercicio 3](practica08/src/practicaSwing/frmEncuesta.java): Formulario Encuesta
